@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bug-base" />
+        <module name="bug-dao" />
+        <module name="bug-service" />
+        <module name="bug-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bug-base" target="1.8" />
+      <module name="bug-dao" target="1.8" />
+      <module name="bug-service" target="1.8" />
+      <module name="bug-web" target="1.8" />
+      <module name="bugmanage" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

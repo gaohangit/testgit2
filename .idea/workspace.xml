@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="408c8fc3-e43d-45e5-8fbb-df9268e1d8bd" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/bug-base/target/" />
+    <ignored path="$PROJECT_DIR$/bug-dao/target/" />
+    <ignored path="$PROJECT_DIR$/bug-service/target/" />
+    <ignored path="$PROJECT_DIR$/bug-web/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="404134873">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ftl" value="5" />
+          <entry key="html" value="2" />
+          <entry key="java" value="66" />
+          <entry key="js" value="1" />
+          <entry key="jsp" value="11" />
+          <entry key="properties" value="18" />
+          <entry key="xml" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="FTL" value="5" />
+          <entry key="HTML" value="2" />
+          <entry key="JAVA" value="66" />
+          <entry key="JSP" value="11" />
+          <entry key="JavaScript" value="1" />
+          <entry key="Properties" value="18" />
+          <entry key="XML" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="ftl" value="38" />
+          <entry key="java" value="419" />
+          <entry key="jsp" value="15" />
+          <entry key="properties" value="16" />
+          <entry key="xml" value="114" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="FTL" value="38" />
+          <entry key="JAVA" value="419" />
+          <entry key="JSP" value="15" />
+          <entry key="Properties" value="16" />
+          <entry key="XML" value="114" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1472288944">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="62" />
+          <entry key="project.open.time.0" value="36" />
+          <entry key="project.open.time.1" value="16" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.opened" value="62" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ftl" value="2" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="34" />
+          <entry key="properties" value="12" />
+          <entry key="xml" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="FTL" value="2" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="34" />
+          <entry key="Properties" value="12" />
+          <entry key="XML" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="properties" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Properties" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="15002996">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bug-dao/src/main/java/bugmanage/bugdao/bugDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1980">
+              <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bug-base/pom.xml" />
+        <option value="$PROJECT_DIR$/bug-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/bug-service/pom.xml" />
+        <option value="$PROJECT_DIR$/bug-web/src/main/java/bugmanage/bugweb/BugWebApplication.java" />
+        <option value="$PROJECT_DIR$/bug-base/src/main/java/bugmanage/bugbase/Room.java" />
+        <option value="$PROJECT_DIR$/bug-dao/src/main/java/bugmanage/bugdao/RoomDao.java" />
+        <option value="$PROJECT_DIR$/bug-service/src/main/java/bugmanage/bugservice/RoomService.java" />
+        <option value="$PROJECT_DIR$/bug-service/src/main/java/bugmanage/bugservice/impl/RoomServiceimpl.java" />
+        <option value="$PROJECT_DIR$/bug-web/src/main/java/bugmanage/bugweb/RoomController.java" />
+        <option value="$PROJECT_DIR$/bug-dao/src/main/java/bugmanage/bugdao/bugDao.java" />
+        <option value="$PROJECT_DIR$/bug-service/src/main/java/bugmanage/bugservice/bugService.java" />
+        <option value="$PROJECT_DIR$/bug-web/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/bug-web/src/main/webapp/add.jsp" />
+        <option value="$PROJECT_DIR$/bug-web/src/main/resources/Mapper/BugMapper.xml" />
+        <option value="$PROJECT_DIR$/bug-service/src/main/java/bugmanage/bugservice/impl/bugServiceImpl.java" />
+        <option value="$PROJECT_DIR$/bug-web/src/main/resources/templates/index.jsp" />
+        <option value="$PROJECT_DIR$/bug-web/src/main/resources/templates/index.ftl" />
+        <option value="$PROJECT_DIR$/bug-web/pom.xml" />
+        <option value="$PROJECT_DIR$/bug-web/src/main/java/bugmanage/BugWebApplication.java" />
+        <option value="$PROJECT_DIR$/bug-web/src/main/resources/templates/aab.ftl" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/bug-web/src/main/java/bugmanage/bugweb/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/bug-base/src/main/java/bugmanage/bugbase/bug.java" />
+        <option value="$PROJECT_DIR$/bug-web/src/main/java/bugmanage/bugweb/bugController.java" />
+        <option value="$PROJECT_DIR$/bug-web/src/main/resources/application.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="656" />
+    <option name="width" value="697" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bugmanage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bugmanage" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550492844656" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exam" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="bugmanage" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="bugmanage.bugweb" />
+      <recent name="bugmanage.bugbase" />
+      <recent name="bugmanage.bugservice.impl" />
+      <recent name="bugmanage.bugservice" />
+      <recent name="bugmanage.bugdao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAProject\bugmanage\bug-web\src\main\resources\templates" />
+      <recent name="D:\IDEAProject\bugmanage\bug-service\src\main\resources" />
+      <recent name="D:\IDEAProject\bugmanage\bug-web\src\main\resources\Mapper" />
+      <recent name="D:\IDEAProject\bugmanage\bug-web\src\main\webapp" />
+      <recent name="D:\IDEAProject\bugmanage\bug-service\src\main\java\bugmanage\bugservice\impl" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BugWebApplication">
+    <configuration name="BugBaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bug-base" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="bugmanage.bugbase.BugBaseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BugDaoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bug-dao" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="bugmanage.bugdao.BugDaoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BugServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bug-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="bugmanage.bugservice.BugServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BugWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bug-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="bugmanage.BugWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BugmanageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bugmanage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.bugmanage.BugmanageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.BugmanageApplication" />
+      <item itemvalue="Spring Boot.BugBaseApplication" />
+      <item itemvalue="Spring Boot.BugDaoApplication" />
+      <item itemvalue="Spring Boot.BugServiceApplication" />
+      <item itemvalue="Spring Boot.BugWebApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="408c8fc3-e43d-45e5-8fbb-df9268e1d8bd" name="Default Changelist" comment="" />
+      <created>1550217707356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550217707356</updated>
+      <workItem from="1550217712149" duration="8943000" />
+      <workItem from="1550275631751" duration="6614000" />
+      <workItem from="1550289174493" duration="1000" />
+      <workItem from="1550297214985" duration="386000" />
+      <workItem from="1550303784448" duration="3172000" />
+      <workItem from="1550387689225" duration="1438000" />
+      <workItem from="1550405436814" duration="116000" />
+      <workItem from="1550405838085" duration="80000" />
+      <workItem from="1550406541089" duration="29000" />
+      <workItem from="1550406694733" duration="29000" />
+      <workItem from="1550406931093" duration="109000" />
+      <workItem from="1550407140115" duration="27000" />
+      <workItem from="1550407355023" duration="47000" />
+      <workItem from="1550407648642" duration="16000" />
+      <workItem from="1550407746701" duration="72000" />
+      <workItem from="1550407848742" duration="8000" />
+      <workItem from="1550408003319" duration="58000" />
+      <workItem from="1550408261056" duration="64000" />
+      <workItem from="1550408815902" duration="41000" />
+      <workItem from="1550409151568" duration="86000" />
+      <workItem from="1550409338470" duration="15000" />
+      <workItem from="1550409490017" duration="57000" />
+      <workItem from="1550409845139" duration="45000" />
+      <workItem from="1550409991396" duration="63000" />
+      <workItem from="1550411040640" duration="31000" />
+      <workItem from="1550465533312" duration="72000" />
+      <workItem from="1550465792846" duration="16000" />
+      <workItem from="1550465851285" duration="28000" />
+      <workItem from="1550465938654" duration="87000" />
+      <workItem from="1550466055088" duration="17000" />
+      <workItem from="1550466326949" duration="40000" />
+      <workItem from="1550466577488" duration="39000" />
+      <workItem from="1550466900056" duration="14000" />
+      <workItem from="1550467394536" duration="32000" />
+      <workItem from="1550467451321" duration="10000" />
+      <workItem from="1550467481573" duration="7000" />
+      <workItem from="1550467514623" duration="25000" />
+      <workItem from="1550467689666" duration="13000" />
+      <workItem from="1550467895913" duration="10000" />
+      <workItem from="1550468173953" duration="21000" />
+      <workItem from="1550468705614" duration="38000" />
+      <workItem from="1550469326240" duration="26000" />
+      <workItem from="1550470065610" duration="17000" />
+      <workItem from="1550470337070" duration="19000" />
+      <workItem from="1550470426853" duration="10000" />
+      <workItem from="1550470512731" duration="13000" />
+      <workItem from="1550470642741" duration="315000" />
+      <workItem from="1550471660914" duration="166000" />
+      <workItem from="1550472038919" duration="21000" />
+      <workItem from="1550472136412" duration="39000" />
+      <workItem from="1550474886015" duration="84000" />
+      <workItem from="1550486704110" duration="31000" />
+      <workItem from="1550489899263" duration="30000" />
+      <workItem from="1550490434011" duration="43000" />
+      <workItem from="1550491383288" duration="13000" />
+      <workItem from="1550491490589" duration="10000" />
+      <workItem from="1550491924210" duration="35000" />
+      <workItem from="1550492637687" duration="217000" />
+      <workItem from="1550494128208" duration="23000" />
+      <workItem from="1550494460099" duration="14000" />
+      <workItem from="1550494511043" duration="38000" />
+      <workItem from="1550495209925" duration="8000" />
+      <workItem from="1550495336586" duration="33000" />
+      <workItem from="1550537082330" duration="135000" />
+      <workItem from="1550548775592" duration="18000" />
+      <workItem from="1551269168432" duration="66000" />
+      <workItem from="1551270013965" duration="18000" />
+      <workItem from="1551272548702" duration="7000" />
+      <workItem from="1558083521710" duration="69000" />
+      <workItem from="1558337456825" duration="45000" />
+      <workItem from="1559983627308" duration="630000" />
+      <workItem from="1560050042640" duration="69000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24278000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18920973" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Learn" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.06451613" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32741934" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.02355623" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bug-base/src/main/java/bugmanage/bugbase/BugBaseApplication.java" />
+    <entry file="file://$PROJECT_DIR$/bug-dao/src/main/java/bugmanage/bugdao/BugDaoApplication.java" />
+    <entry file="file://$PROJECT_DIR$/bug-service/src/main/java/bugmanage/bugservice/BugServiceApplication.java" />
+    <entry file="file://$PROJECT_DIR$/bug-base/src/main/resources/Mapper/RoomMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/bug-base/src/main/java/bugmanage/bugbase/Room.java" />
+    <entry file="file://$PROJECT_DIR$/bug-dao/src/main/java/bugmanage/bugdao/RoomDao.java" />
+    <entry file="file://$PROJECT_DIR$/bug-service/src/main/java/bugmanage/bugservice/RoomService.java" />
+    <entry file="file://$PROJECT_DIR$/bug-web/src/main/java/bugmanage/bugweb/RoomController.java" />
+    <entry file="file://$PROJECT_DIR$/bug-web/src/main/webapp/index.html" />
+    <entry file="file://$PROJECT_DIR$/bug-web/src/main/webapp/js/jquery-1.9.1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bug-service/src/main/java/bugmanage/bugservice/impl/RoomServiceimpl.java" />
+    <entry file="file://$PROJECT_DIR$/bug-web/src/main/resources/Mapper/RoomMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/bug-web/src/main/resources/templates/add.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bug-web/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3344">
+          <caret line="76" column="20" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bug-web/src/main/webapp/add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bug-web/src/main/resources/templates/aab.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="16" selection-start-line="16" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bug-dao/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bugmanage.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bug-web/src/test/java/bugmanage/bugweb/BugWebApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bug-dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="7" column="41" selection-start-line="5" selection-start-column="6" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bug-base/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1892">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bug-web/src/main/java/bugmanage/BugWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bug-base/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bug-service/src/main/java/bugmanage/bugservice/impl/bugServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bug-service/src/main/java/bugmanage/bugservice/bugService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bug-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bug-web/src/main/resources/templates/index.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bug-web/src/main/resources/Mapper/BugMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bug-base/src/main/java/bugmanage/bugbase/bug.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bug-web/src/main/java/bugmanage/bugweb/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bug-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bug-web/src/main/java/bugmanage/bugweb/bugController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="82" column="27" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bug-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-986">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bug-web/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" lean-forward="true" selection-start-column="55" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bug-dao/src/main/java/bugmanage/bugdao/bugDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>bug-base</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

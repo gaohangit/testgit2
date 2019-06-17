@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bug-base/bug-base.iml" filepath="$PROJECT_DIR$/bug-base/bug-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bug-dao/bug-dao.iml" filepath="$PROJECT_DIR$/bug-dao/bug-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bug-service/bug-service.iml" filepath="$PROJECT_DIR$/bug-service/bug-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bug-web/bug-web.iml" filepath="$PROJECT_DIR$/bug-web/bug-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bugmanage.iml" filepath="$PROJECT_DIR$/bugmanage.iml" />
+    </modules>
+  </component>
+</project>

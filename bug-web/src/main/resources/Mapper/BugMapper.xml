@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="bugmanage.bugdao.bugDao">
+<select id="getAll" resultType="bugmanage.bugbase.bug">
+select * from bug_detail
+</select>
+<select id="fenye" resultType="bugmanage.bugbase.bug">
+select * from bug_detail,bug_project s where projectId=s.id order by createDate desc limit #{curr},#{page}
+</select>
+<select id="chakan" resultType="bugmanage.bugbase.bug">
+SELECT * FROM bug_detail WHERE projectId=#{type} ORDER BY createDate DESC
+</select>
+<insert id="add">
+insert into bug_detail set projectId=#{project},severity=#{severity},title=#{title},reportUser=#{username}
+</insert>
+
+</mapper>
